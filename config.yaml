@@ -1,0 +1,6 @@
+mail.from: email@server.com
+mail.pwd: theultrasecretpass
+
+mail.to: mail1,mail2,mail3
+smtp.server: smtp.server.com
+smtp.port: port
